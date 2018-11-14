@@ -1,43 +1,26 @@
 # DLN
 
-Normal Text
+# Quotes and Code Blocks
 
-# Main Header
+## Quotes
 
-## Secondary Header
+To add quotes, use the greater than symbol: 
 
-### Third Header
+> This is a quote
 
-#### Fourth Header
+This is a multiline quotes:
 
-##### Fifth Header
+> Here is a multiline quote.
+> Another quote
+> Quotes get out on the same line, if space allows it
 
-###### Sixth Header
+## Code Blocks
 
-# Bold and Italics
+To make a code block, use three backticks
 
-## Bold
+```
+instal.packaged("tidyverse")
+library(tidyverse)
+```
 
-To put text in bold, use two asterisks: **This is a bold text**
-
-To get an asterisk, lead with \\
-
-Underscores aslo makes bold text: __This is also bold__
-
-## Italics
-
-Use a single asterisk or underscore: *This is italicised*
-
-_This is also italicised_
-
-## Combination of both
-
-Combine one underscore and two asterisk: _**This text is italicised and bold**_
-
-# Line ruling
-
-Rule lines by having at least 3 minus or using 3 asterisks
-
----
-
-***
+You can also have codes within your text `with one backtick`
