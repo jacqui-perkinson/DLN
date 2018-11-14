@@ -1,26 +1,12 @@
 # DLN
 
-# Quotes and Code Blocks
+## Tables
 
-## Quotes
+simple tables using the pipe symbol and minus symbol
 
-To add quotes, use the greater than symbol: 
+| column 1 | column 2 | column 3 |
+|:---------|:---------|:--------:|
+| item 1 | item 2 | item 3 |
+| **bold** | _italics_ | `code` |
 
-> This is a quote
-
-This is a multiline quotes:
-
-> Here is a multiline quote.
-> Another quote
-> Quotes get out on the same line, if space allows it
-
-## Code Blocks
-
-To make a code block, use three backticks
-
-```
-instal.packaged("tidyverse")
-library(tidyverse)
-```
-
-You can also have codes within your text `with one backtick`
+adding colon to make table align, can use this on different sides
