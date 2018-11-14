@@ -8,5 +8,7 @@ simple tables using the pipe symbol and minus symbol
 |:---------|:---------|:--------:|
 | item 1 | item 2 | item 3 |
 | **bold** | _italics_ | `code` |
+| item 1 | item 2 | item 3 |
+| itemmmmmmmmmm 1 | item 2 | item 3 |
 
 adding colon to make table align, can use this on different sides
