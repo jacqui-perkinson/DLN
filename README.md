@@ -33,3 +33,11 @@ _This is also italicised_
 ## Combination of both
 
 Combine one underscore and two asterisk: _**This text is italicised and bold**_
+
+# Line ruling
+
+Rule lines by having at least 3 minus or using 3 asterisks
+
+---
+
+***
