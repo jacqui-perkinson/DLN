@@ -1,4 +1,4 @@
-# DLN
+# Digital Lab Notebook
 
 This repository contains methods and results.
 
