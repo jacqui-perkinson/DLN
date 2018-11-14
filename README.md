@@ -1,10 +1,9 @@
 # DLN
 
-## Links and Images
+This repository contains methods and results.
 
-Link stuff to this document using square bracket and curved bracket [etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
+Please look at [Results](/Results/) for up-to-date results.
 
-Use the square brackets to show name of link and web address using curved brackets
+Please look at [Methods](/Methods/) for up-to-date methods.
 
-Images, use an exclamation mark before the link
-
+Lab log shown in [General Notes](/General_notes/)
